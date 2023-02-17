@@ -17262,3 +17262,79 @@ export const data = [
     gecici_barinma: 4250,
   },
 ];
+
+export const columns = [
+  {
+    title: "İlçe Adı",
+    dataIndex: "ilce_adi",
+    key: "ilce_adi",
+    render: (text) => <b>{text}</b>,
+  },
+  {
+    title: "Mahalle Adı",
+    dataIndex: "mahalle_adi",
+    key: "mahalle_adi",
+  },
+  {
+    title: "Çok Ağır Hasarlı Bina Sayısı",
+    dataIndex: "cok_agir_hasarli_bina_sayisi",
+    key: "cok_agir_hasarli_bina_sayisi",
+    render: (text) => <mark>{text}</mark>,
+  },
+  {
+    title: "Ağır Hasarlı Bina Sayısı",
+    dataIndex: "agir_hasarli_bina_sayisi",
+    key: "agir_hasarli_bina_sayisi",
+  },
+  {
+    title: "Orta Hasarlı Bina Sayısı",
+    dataIndex: "orta_hasarli_bina_sayisi",
+    key: "orta_hasarli_bina_sayisi",
+  },
+  {
+    title: "Hafif Hasarlı Bina Sayısı",
+    dataIndex: "hafif_hasarli_bina_sayisi",
+    key: "hafif_hasarli_bina_sayisi",
+  },
+  {
+    title: "Can Kaybı Sayısı",
+    dataIndex: "can_kaybi_sayisi",
+    key: "can_kaybi_sayisi",
+    render: (text) => <mark>{text}</mark>,
+  },
+  {
+    title: "Ağır Yaralı Sayısı",
+    dataIndex: "agir_yarali_sayisi",
+    key: "agir_yarali_sayisi",
+  },
+  {
+    title: "Hastanede Tedavi Sayısı",
+    dataIndex: "hastanede_tedavi_sayisi",
+    key: "hastanede_tedavi_sayisi",
+  },
+  {
+    title: "Hafif Yaralı Sayısı",
+    dataIndex: "hafif_yarali_sayisi",
+    key: "hafif_yarali_sayisi",
+  },
+  {
+    title: "İçme Suyu Boru Hasarı",
+    dataIndex: "icme_suyu_boru_hasari",
+    key: "icme_suyu_boru_hasari",
+  },
+  {
+    title: "Doğalgaz Boru Hasarı",
+    dataIndex: "dogalgaz_boru_hasari",
+    key: "dogalgaz_boru_hasari",
+  },
+  {
+    title: "Atık Su Boru Hasarı",
+    dataIndex: "atik_su_boru_hasari",
+    key: "atik_su_boru_hasari",
+  },
+  {
+    title: "Geçici Barınma Sayısı",
+    dataIndex: "gecici_barinma",
+    key: "gecici_barinma",
+  }
+]
