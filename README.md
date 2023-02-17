@@ -13,4 +13,4 @@ https://63efb82d9d453b083ab1b91d--ist-earthquake-map.netlify.app/
 
 <b>Mobile:</b>
 
-![alt text](https://user-images.githubusercontent.com/81647285/219727386-5417451c-f16e-4e8f-ba70-36135e618b24.png)
+![alt text](https://user-images.githubusercontent.com/81647285/219729370-262457a8-2f96-49e1-8f33-e1f3ff57ad21.png)
