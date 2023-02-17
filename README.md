@@ -7,3 +7,4 @@ Kaynak : <a href="https://data.ibb.gov.tr/dataset/deprem-senaryosu-analiz-sonucl
 
 https://63efb82d9d453b083ab1b91d--ist-earthquake-map.netlify.app/
 
+https://user-images.githubusercontent.com/81647285/219727386-5417451c-f16e-4e8f-ba70-36135e618b24.png
