@@ -1,4 +1,4 @@
-İBB İstanbul Haritalandırılmış Deprem Tahmini (2021, 7.5 Mw)
+İBB İstanbul Haritalandırılmış Deprem Tahmini (2021)
 
 İBB tarafından tahmin edilen, 7.5 Mw büyüklüğünde gece olacak deprem senaryosuna göre yapılan analizlerin sonuçlarını içerir.
 Kaynak : İBB Deprem Senaryosu Analizi
